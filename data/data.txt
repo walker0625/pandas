@@ -1,0 +1,4 @@
+kowebs_c19_2024_beta1.sav: 아동설문용데이터(SAS, SPSS, STATA):koweps_c19_2024_Beta1
+train.csv: 구내식당 식수 인원 예측 AI 경진대회 데이터(https://dacon.io/competitions/official/235743/codeshare/4261?page=1&dtype=recent)
+kr3_raw.tsv: Korean Restaurant Review with Ratings(https://www.kaggle.com/datasets/ninetyninenewton/kr3-korean-restaurant-reviews-with-ratings?resource=download&select=kr3_raw.tsv)
+국민건강보험공단_특정 상병별 요양기관종별 및 진료과목별 및 시군구별 진료인원_20231231.xlsx: 공공데이터(https://www.data.go.kr/data/15133554/fileData.do)
